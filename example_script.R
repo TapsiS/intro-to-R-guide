@@ -57,4 +57,6 @@ ggplot(aircomplete) + geom_boxplot(aes(x=temp_fac, y=Ozone))
 
 
 
+
+
 # END
